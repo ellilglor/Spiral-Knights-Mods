@@ -1,0 +1,9 @@
+{
+  "mod": {
+    "name": "Diskgun Sprites",
+    "description": "Replaces the 3 basic sprites with a diskgun",
+    "author": "Tyvod & DruryLane",
+    "version": "1.0.0",
+    "compatibility": "Will not work with other sprite mods that affect these models"
+  }
+}
